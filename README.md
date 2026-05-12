@@ -27,4 +27,8 @@ Handles all backend data operations, including:
 
 ---
 
+### Preview
+
+![Report Preview](./Open%20JE's%20Report%20Preview.png)
+
 
